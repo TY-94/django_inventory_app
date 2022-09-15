@@ -1,7 +1,8 @@
 # django_inventory_app
 Django course project
 
-Login detail
+##Login detail
 
-Username = admin
-password = admin
+**Username**: `admin`
+
+**Password**: `admin`
